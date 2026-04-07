@@ -8,8 +8,8 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - API Composition
-  - Pro-code
   - Orchestration
+  - Pro-Code
 url: >-
   https://raw.githubusercontent.com/api-evangelist/pro-code-api-composition/refs/heads/main/apis.yml
 created: '2026-03-27'
