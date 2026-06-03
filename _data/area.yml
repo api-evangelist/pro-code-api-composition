@@ -1,0 +1,112 @@
+meta:
+  name: Pro-Code API Composition
+  description: An index of pro-code API composition service and tooling repos being
+    tracked by the API Evangelist network, covering workflow engines, code-first platforms,
+    serverless orchestration, API composition patterns, and BFF frameworks.
+  tags:
+  - API Composition
+  - Orchestration
+  - Pro-Code
+  portal: null
+  github: null
+  repo: pro-code-api-composition
+services_tools:
+- name: Apollo Federation
+  repo: https://github.com/api-evangelist/apollo-federation
+  apisio: https://providers.apis.io/providers/apollo-federation/
+- name: Argo Workflows
+  repo: https://github.com/api-evangelist/argo-workflows
+  apisio: https://providers.apis.io/providers/argo-workflows/
+- name: AWS Step Functions
+  repo: https://github.com/api-evangelist/step-functions
+  apisio: https://providers.apis.io/providers/step-functions/
+- name: Azure Durable Functions
+  repo: https://github.com/api-evangelist/durable-functions
+  apisio: https://providers.apis.io/providers/durable-functions/
+- name: Ballerina
+  repo: https://github.com/api-evangelist/ballerina
+  apisio: https://providers.apis.io/providers/ballerina/
+- name: Cadence
+  repo: https://github.com/api-evangelist/cadence
+  apisio: https://providers.apis.io/providers/cadence/
+- name: Camunda
+  repo: https://github.com/api-evangelist/camunda
+  apisio: https://providers.apis.io/providers/camunda/
+- name: Dagster
+  repo: https://github.com/api-evangelist/dagster
+  apisio: https://providers.apis.io/providers/dagster/
+- name: Dapr
+  repo: https://github.com/api-evangelist/dapr
+  apisio: https://providers.apis.io/providers/dapr/
+- name: DBOS
+  repo: https://github.com/api-evangelist/dbos
+  apisio: https://providers.apis.io/providers/dbos/
+- name: Express Gateway
+  repo: https://github.com/api-evangelist/express-gateway
+  apisio: https://providers.apis.io/providers/express-gateway/
+- name: Fastify
+  repo: https://github.com/api-evangelist/fastify
+  apisio: https://providers.apis.io/providers/fastify/
+- name: Google Cloud Workflows
+  repo: https://github.com/api-evangelist/google-cloud-workflows
+  apisio: https://providers.apis.io/providers/google-cloud-workflows/
+- name: GraphQL Mesh
+  repo: https://github.com/api-evangelist/graphql-mesh
+  apisio: https://providers.apis.io/providers/graphql-mesh/
+- name: Hasura
+  repo: https://github.com/api-evangelist/hasura
+  apisio: https://providers.apis.io/providers/hasura/
+- name: Hatchet
+  repo: https://github.com/api-evangelist/hatchet
+  apisio: https://providers.apis.io/providers/hatchet/
+- name: Inngest
+  repo: https://github.com/api-evangelist/inngest
+  apisio: https://providers.apis.io/providers/inngest/
+- name: Kestra
+  repo: https://github.com/api-evangelist/kestra
+  apisio: https://providers.apis.io/providers/kestra/
+- name: LittleHorse
+  repo: https://github.com/api-evangelist/littlehorse
+  apisio: https://providers.apis.io/providers/littlehorse/
+- name: NestJS
+  repo: https://github.com/api-evangelist/nestjs
+  apisio: https://providers.apis.io/providers/nestjs/
+- name: Netflix Conductor
+  repo: https://github.com/api-evangelist/netflix-conductor
+  apisio: https://providers.apis.io/providers/netflix-conductor/
+- name: Orkes
+  repo: https://github.com/api-evangelist/orkes
+  apisio: https://providers.apis.io/providers/orkes/
+- name: Prefect
+  repo: https://github.com/api-evangelist/prefect
+  apisio: https://providers.apis.io/providers/prefect/
+- name: Restate
+  repo: https://github.com/api-evangelist/restate
+  apisio: https://providers.apis.io/providers/restate/
+- name: Schema Stitching
+  repo: https://github.com/api-evangelist/schema-stitching
+  apisio: https://providers.apis.io/providers/schema-stitching/
+- name: Serverless Workflow
+  repo: https://github.com/api-evangelist/serverless-workflow
+  apisio: https://providers.apis.io/providers/serverless-workflow/
+- name: StepZen
+  repo: https://github.com/api-evangelist/stepzen
+  apisio: https://providers.apis.io/providers/stepzen/
+- name: Temporal
+  repo: https://github.com/api-evangelist/temporal
+  apisio: https://providers.apis.io/providers/temporal/
+- name: tRPC
+  repo: https://github.com/api-evangelist/trpc
+  apisio: https://providers.apis.io/providers/trpc/
+- name: Windmill
+  repo: https://github.com/api-evangelist/windmill
+  apisio: https://providers.apis.io/providers/windmill/
+- name: WunderGraph
+  repo: https://github.com/api-evangelist/wundergraph
+  apisio: https://providers.apis.io/providers/wundergraph/
+- name: Zeebe
+  repo: https://github.com/api-evangelist/zeebe
+  apisio: https://providers.apis.io/providers/zeebe/
+features: []
+use_cases: []
+integrations: []
