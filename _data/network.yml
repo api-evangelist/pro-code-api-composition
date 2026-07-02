@@ -1,0 +1,31 @@
+related:
+- name: iPaaS
+  url: https://ipaas.apievangelist.com
+  icon: https://ipaas.apievangelist.com/icon.png
+  description: This is the index of iPaaS (integration platform as a service) repos being tracked by the
+    API Evangelist network.
+- name: SDKs
+  url: https://sdk.apievangelist.com
+  icon: https://sdk.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for generating API SDKs,
+    client libraries, and code from API specifications. This collection covers SDK generation…
+- name: Orchestration
+  url: https://orchestration.apievangelist.com
+  icon: https://orchestration.apievangelist.com/icon.png
+  description: An index and topic collection covering container orchestration and workflow orchestration
+    platforms. Container orchestration platforms like Kubernetes, OpenShift, Amazon EKS,…
+- name: Containers
+  url: https://containers.apievangelist.com
+  icon: https://containers.apievangelist.com/icon.png
+  description: An index of container runtime, orchestration, registry, security, and build tool repositories
+    tracking the services and tools that package, deploy, and manage containerized…
+- name: IDE
+  url: https://ide.apievangelist.com
+  icon: https://ide.apievangelist.com/icon.png
+  description: An index and topic collection covering integrated development environments (IDEs), code
+    editors, and cloud workspaces with APIs. This topic captures the editors, IDEs, and…
+- name: Agents
+  url: https://agents.apievangelist.com
+  icon: https://agents.apievangelist.com/icon.png
+  description: An index and topic collection covering AI agents, agent frameworks, and agent runtimes
+    that enable autonomous reasoning, tool use, and multi-step task execution. This profile…
