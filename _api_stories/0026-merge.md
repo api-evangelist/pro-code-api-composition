@@ -1,7 +1,7 @@
 ---
-title: How to connect a Cloudflare MCP with Codex (4 steps)
-link: https://www.merge.dev/blog/cloudflare-mcp-codex
-published: '2026-06-24'
+title: How to connect an Outlook MCP with Claude Code (4 steps)
+link: https://www.merge.dev/blog/outlook-mcp-claude-code
+published: '2026-07-30'
 provider: merge
 repo: https://github.com/api-evangelist/merge
 domain: www.merge.dev
