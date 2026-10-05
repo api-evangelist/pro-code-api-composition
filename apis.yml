@@ -1,5 +1,6 @@
 aid: pro-code-api-composition
 name: Pro-Code API Composition
+kind: topic
 description: >-
   An index of pro-code API composition service and tooling repos being tracked
   by the API Evangelist network, covering workflow engines, code-first platforms,
