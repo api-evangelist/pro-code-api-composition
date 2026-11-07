@@ -1,5 +1,5 @@
 ---
-title: The MCP servers worth connecting to Claude Code (and the order to add them)
+title: Which types of MCP servers should you connect to Claude Code?
 link: https://stellary.co/blog/best-mcp-servers-for-claude-code/
 published: '2026-09-01'
 provider: stellary
